@@ -1,7 +1,7 @@
 #jangan ganti author nya"
 #script ini hanya untuk hiburan aja"
 #subscribe chennel MR M3R4Z"
-
+clear
 sleep 4
 echo -e "\e[33mhalo\e[0m";
 sleep 5
